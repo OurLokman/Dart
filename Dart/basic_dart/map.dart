@@ -9,8 +9,8 @@ void main() {
 
   // In map key should be unique but value can be use in multiple time;
 
-  print(studentName);
-  print(studentName[40]);
+  print(studentName); // Imam, Hamim, Jahid
+  print(studentName[40]); // jahid
   studentName[2]='Random';
   print(studentName);
 

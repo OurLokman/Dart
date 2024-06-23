@@ -1,5 +1,5 @@
 void main() {
-  print("Hello Dart");
+  print("HelloDart");
 
   // I love You;
 
@@ -12,7 +12,7 @@ void main() {
   print(10.runtimeType);
   print(10.20.runtimeType);
   print(true.runtimeType);
-  print('Lokman.runtimeType');// don't print string data type
+  print('HelloDart.runtimeType');// don't print string data type
 
   String username = 'Lokman';
   print(username);

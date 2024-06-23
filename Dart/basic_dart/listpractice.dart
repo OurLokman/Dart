@@ -14,7 +14,7 @@ main(){
   names.removeAt(2);
   print(names);
 
- print(names.removeAt(1)); // it will return the return value
+ print(names.removeAt(1)); // it will return the first value
 
  names.insert(1, 'jenifa');
  print(names);
